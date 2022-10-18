@@ -1,7 +1,8 @@
 body {
       font: 400 15px Ubuntu, sans-serif;
       line-height: 1.8;
-      color: #818181;
+      color: #000;
+      background-color: lightblue;
     }
 
     h1 {
@@ -80,7 +81,25 @@ body {
     }
 
     .bg-grey {
-      background-color: #f6f6f6;
+      background-color: #000;
+      color: #fff;
+    }
+
+    .bg-white {
+      background-color: lightblue;
+      color: #000;
+    }
+
+    .text-white h4, .text-black h2, .text-black p {
+      color: #fff;
+    }
+
+    .text-black h4, .text-black h2, .text-black p {
+      color: #000;
+    }
+
+    .col-sm-4 {
+      color: #fff;
     }
 
     #logo {
@@ -113,15 +132,15 @@ body {
     .carousel-control.right,
     .carousel-control.left {
       background-image: none;
-      color: #54229e;
+      color: blue;
     }
 
     .carousel-indicators li {
-      border-color: #54229e;
+      border-color: blue;
     }
 
     .carousel-indicators li.active {
-      background-color: #54229e;
+      background-color: blue;
     }
 
     .item h4 {
@@ -142,12 +161,12 @@ body {
 
     .input-group-btn button {
       padding: 20px;
-      background: #54229e;
+      background: blue;
       color: #FFF;
     }
 
     .panel {
-      border: 1px solid #54229e;
+      border: 1px solid blue;
       border-radius: 0 !important;
       transition: box-shadow 0.5s;
     }
@@ -164,7 +183,7 @@ body {
 
     .panel-heading {
       color: #fff !important;
-      background-color: #54229e !important;
+      background-color: blue !important;
       padding: 25px;
       border-bottom: 1px solid transparent;
       border-top-left-radius: 0px;
@@ -188,13 +207,13 @@ body {
 
     .panel-footer .btn {
       margin: 15px 0;
-      background-color: #54229e;
+      background-color: blue;
       color: #fff;
     }
 
     .navbar {
       margin-bottom: 0;
-      background-color: #54229e;
+      background-color: blue;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -223,7 +242,7 @@ body {
     footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
-      color: #54229e;
+      color: blue;
     }
 
     .slideanim {
