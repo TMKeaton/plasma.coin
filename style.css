@@ -39,6 +39,14 @@ body {
       color: blue;
     }
 
+    .mobile-show{
+      display: hidden;
+    }
+
+    .mobile-hide{
+      display: block;
+    }
+
     .jumbotron {
       background-color: #000;
       color: #fff;
@@ -298,7 +306,7 @@ body {
       .mobile-hide{
         display: hidden;
       }
-      
+
       .navbar-title {
         font-size: 0.8em;
       }
