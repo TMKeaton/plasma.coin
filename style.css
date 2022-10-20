@@ -29,6 +29,10 @@ body {
       margin-bottom: 30px;
     }
 
+    .glyph-text-blue {
+      color: blue;
+    }
+
     .jumbotron {
       background-color: #000;
       color: #fff;
