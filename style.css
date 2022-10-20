@@ -1,6 +1,5 @@
 body {
       line-height: 1.8;
-      color: #000;
       background-color: lightblue;
       font-family: 'Lato';
     }
@@ -16,7 +15,6 @@ body {
     h2 {
       font-size: 24px;
       text-transform: uppercase;
-      color: #303030;
       font-weight: 600;
       margin-bottom: 30px;
     }
@@ -24,7 +22,6 @@ body {
     h4 {
       font-size: 19px;
       line-height: 1.375em;
-      color: #303030;
       font-weight: 400;
       margin-bottom: 30px;
     }
