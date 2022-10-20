@@ -291,6 +291,14 @@ body {
 
     @media screen and (max-width: 768px) {
 
+      .mobile-show{
+        display: block;
+      }
+
+      .mobile-hide{
+        display: hidden;
+      }
+      
       .navbar-title {
         font-size: 0.8em;
       }
@@ -312,6 +320,13 @@ body {
 
     @media screen and (max-width: 480px) {
 
+      .mobile-show{
+        display: block;
+      }
+
+      .mobile-hide{
+        display: hidden;
+      }
       .navbar-title {
         font-size: 0.5em;
       }
