@@ -325,11 +325,7 @@ body {
         margin-bottom: 35px;
       }
     }
-
-    .container-fluid {
-      padding: 20px 15px;
-    }
-
+    
     @media screen and (max-width: 480px) {
 
       .container-fluid {
