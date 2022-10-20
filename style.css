@@ -97,7 +97,7 @@ body {
     }
 
     .container-fluid {
-      padding: 25px 20px;
+      padding: 35px 25px;
     }
 
     .bg-grey {
@@ -326,7 +326,15 @@ body {
       }
     }
 
+    .container-fluid {
+      padding: 20px 15px;
+    }
+
     @media screen and (max-width: 480px) {
+
+      .container-fluid {
+        padding: 20px 15px;
+      }
 
       .mobile-show{
         display: block;
