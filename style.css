@@ -286,6 +286,10 @@ body {
 
     @media screen and (max-width: 768px) {
 
+      .navbar-title {
+        font-size: 0.3em;
+      }
+
       img {
         width: 100%;
         height: 40vh;
@@ -302,6 +306,10 @@ body {
     }
 
     @media screen and (max-width: 480px) {
+
+      .navbar-title {
+        font-size: 0.2em;
+      }
 
       img {
         width: 100%;
