@@ -92,12 +92,10 @@ body {
 
     .bg-grey {
       background-color: #000;
-      color: #fff;
     }
 
     .bg-white {
       background-color: lightblue;
-      color: #000;
     }
 
     .text-white h4, .text-white h2, .text-white p {
