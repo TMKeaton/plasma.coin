@@ -29,6 +29,11 @@ body {
       margin-bottom: 30px;
     }
 
+    img {
+      margin: 0 auto;
+      align-content: center;
+    }
+
     .glyph-text-blue {
       color: blue;
     }
