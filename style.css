@@ -36,6 +36,10 @@ body {
       text-decoration: none;
     }
 
+    .main-logo-img {
+      height: 45vh;
+    }
+
     .glyph-text-blue {
       color: blue;
     }
@@ -349,7 +353,11 @@ body {
         width: 100%;
         height: 50vh;
       }
-
+      
+      .main-logo-img {
+        height: 50vh;
+      }
+          
       .logo {
         font-size: 150px;
       }
